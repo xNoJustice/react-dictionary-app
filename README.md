@@ -1,4 +1,4 @@
-<img alt="React Tailwind Boilerplate" src="" />
+<img alt="React Tailwind Boilerplate" src="https://github.com/xNoJustice/react-dictionary-app/blob/8934fa57d0a528471ad8c33e1a251b6b6fb3d112/app.gif" />
 
 ## Install & Start
 
